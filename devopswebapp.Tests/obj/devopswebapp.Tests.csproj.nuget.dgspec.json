@@ -1,37 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "F:\\DOProjects\\devops-webapp-solution\\devopswebapp.Tests\\devopswebapp.Tests.csproj": {}
+    "c:\\ALL\\private_projects\\devops-webapp-solution\\devopswebapp.Tests\\devopswebapp.Tests.csproj": {}
   },
   "projects": {
-    "F:\\DOProjects\\devops-webapp-solution\\devopswebapp.Tests\\devopswebapp.Tests.csproj": {
+    "c:\\ALL\\private_projects\\devops-webapp-solution\\devopswebapp.Tests\\devopswebapp.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\DOProjects\\devops-webapp-solution\\devopswebapp.Tests\\devopswebapp.Tests.csproj",
+        "projectUniqueName": "c:\\ALL\\private_projects\\devops-webapp-solution\\devopswebapp.Tests\\devopswebapp.Tests.csproj",
         "projectName": "devopswebapp.Tests",
-        "projectPath": "F:\\DOProjects\\devops-webapp-solution\\devopswebapp.Tests\\devopswebapp.Tests.csproj",
-        "packagesPath": "C:\\Users\\Charles\\.nuget\\packages\\",
-        "outputPath": "F:\\DOProjects\\devops-webapp-solution\\devopswebapp.Tests\\obj\\",
+        "projectPath": "c:\\ALL\\private_projects\\devops-webapp-solution\\devopswebapp.Tests\\devopswebapp.Tests.csproj",
+        "packagesPath": "C:\\Users\\VXB784\\.nuget\\packages\\",
+        "outputPath": "c:\\ALL\\private_projects\\devops-webapp-solution\\devopswebapp.Tests\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Charles\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\VXB784\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "F:\\DOProjects\\devops-webapp-solution\\devopswebapp\\devopswebapp.csproj": {
-                "projectPath": "F:\\DOProjects\\devops-webapp-solution\\devopswebapp\\devopswebapp.csproj"
+              "c:\\ALL\\private_projects\\devops-webapp-solution\\devopswebapp\\devopswebapp.csproj": {
+                "projectPath": "c:\\ALL\\private_projects\\devops-webapp-solution\\devopswebapp\\devopswebapp.csproj"
               }
             }
           }
@@ -81,31 +76,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.406\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\DOProjects\\devops-webapp-solution\\devopswebapp\\devopswebapp.csproj": {
+    "c:\\ALL\\private_projects\\devops-webapp-solution\\devopswebapp\\devopswebapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\DOProjects\\devops-webapp-solution\\devopswebapp\\devopswebapp.csproj",
-        "projectName": "devopswebapp-coursetest",
-        "projectPath": "F:\\DOProjects\\devops-webapp-solution\\devopswebapp\\devopswebapp.csproj",
-        "packagesPath": "C:\\Users\\Charles\\.nuget\\packages\\",
-        "outputPath": "F:\\DOProjects\\devops-webapp-solution\\devopswebapp\\obj\\",
+        "projectUniqueName": "c:\\ALL\\private_projects\\devops-webapp-solution\\devopswebapp\\devopswebapp.csproj",
+        "projectName": "devopswebapp",
+        "projectPath": "c:\\ALL\\private_projects\\devops-webapp-solution\\devopswebapp\\devopswebapp.csproj",
+        "packagesPath": "C:\\Users\\VXB784\\.nuget\\packages\\",
+        "outputPath": "c:\\ALL\\private_projects\\devops-webapp-solution\\devopswebapp\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Charles\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\VXB784\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -139,7 +129,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.406\\RuntimeIdentifierGraph.json"
         }
       }
     }
